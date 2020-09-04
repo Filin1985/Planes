@@ -68,7 +68,7 @@ header a:hover{
 /*Showcase*/
 #showcase{
     min-height: 400px;
-    background: url('A380.jpg') no-repeat center/cover;
+    background: url('img/A380.jpg') no-repeat center/cover;
     text-align: center;
     color: rgb(255, 255, 255);
 }
@@ -124,7 +124,7 @@ footer{
 
 #air{
     min-height: 400px;
-    background: url('Air.jpg') no-repeat center/cover;
+    background: url('img/Air.jpg') no-repeat center/cover;
     text-align: center;
     color: rgb(255, 255, 255);
 }
@@ -141,7 +141,7 @@ footer{
 
 #Boeingshow{
     min-height: 400px;
-    background: url('747.jpg') no-repeat center/cover;
+    background: url('img/747.jpg') no-repeat center/cover;
     text-align: center;
     color: rgb(255, 255, 255);
 }
